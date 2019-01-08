@@ -7,7 +7,7 @@ Statistikk over medlemstall i alle 912 organisasjoner som har mottatt tilskudd t
  
 
 # TODO 
-Analyse og visualisering i R og MySQL, oppdatering av [https://no.wikipedia.org/wiki/Tilskudd_til_tros-_og_livssynssamfunn ](Wikipedia-artikkelen om temaet)
+Analyse og visualisering i R og MySQL, oppdatering av [Wikipedia-artikkelen om temaet](https://no.wikipedia.org/wiki/Tilskudd_til_tros-_og_livssynssamfunn). 
  
 # Kilde 
-[https://www.regjeringen.no/no/tema/tro-og-livssyn/tros-og-livssynssamfunn/innsiktsartikler/antall-tilskuddsberettigede-medlemmer-i-/id631507/ ](regjeringen.no Antall tilskuddstellende medlemmer i tros- og livssynssamfunn)
+[regjeringen.no Antall tilskuddstellende medlemmer i tros- og livssynssamfunn](https://www.regjeringen.no/no/tema/tro-og-livssyn/tros-og-livssynssamfunn/innsiktsartikler/antall-tilskuddsberettigede-medlemmer-i-/id631507/)
